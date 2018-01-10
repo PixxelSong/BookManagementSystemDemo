@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2017.3.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\sxl20\CLionProjects\BookManagementSystemDemo
+-- The C compiler identification is GNU 4.9.2
+-- Check for working C compiler: D:/MinGW64/bin/gcc.exe
+-- Check for working C compiler: D:/MinGW64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sxl20/CLionProjects/BookManagementSystemDemo/cmake-build-debug

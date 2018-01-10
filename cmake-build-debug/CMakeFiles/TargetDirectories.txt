@@ -1,0 +1,3 @@
+C:/Users/sxl20/CLionProjects/BookManagementSystemDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sxl20/CLionProjects/BookManagementSystemDemo/cmake-build-debug/CMakeFiles/BookManagementSystemDemo.dir
+C:/Users/sxl20/CLionProjects/BookManagementSystemDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
